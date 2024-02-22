@@ -11,7 +11,7 @@ class _FeaturesPageState extends State<FeaturesPage> {
   @override
   Widget build(BuildContext context) {
     return const Placeholder(
-      child: Center(child: Text("Hey Manager! \n GET LOST!!!!")),
+      child: Center(child: Text("Eeew, What is this BroTha!")),
     );
   }
 }

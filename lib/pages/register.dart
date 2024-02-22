@@ -66,7 +66,7 @@ class _RegisterPageState extends State<RegisterPage> {
                       margin: EdgeInsets.only(bottom: 5),
                       padding: EdgeInsets.only(left: 10, right: 10),
                       child: TextField(
-                          controller: companyName,
+                          controller: reenterPassword,
                           decoration: InputDecoration(
                             filled: true,
                             fillColor: Color(0xffd9d9d9),
